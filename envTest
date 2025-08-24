@@ -1,0 +1,8 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=1234
+DB_NAME=quizeportal
+DB_PORT=3306
+JWT_SECRET=asdfghjkoiuytrezxcvbnmlkjhgf
+JWT_EXPIRE=24h
+PORT=5000
